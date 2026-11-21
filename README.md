@@ -1,5 +1,5 @@
-## Hi there 👋
+## Hi there 🤓
 
 My name is Hüseyin. I like medicine, statistics and technology.
 
-You are probably looking for this: [dendrite](https://hueseyinabi.github.io/dendrite/notes/dendrite.html).
+There is not much going on here at the moment. I assume, you are looking for this: [dendrite](https://hueseyinabi.github.io/dendrite/notes/dendrite.html).
