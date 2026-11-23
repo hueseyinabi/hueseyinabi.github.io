@@ -13,5 +13,5 @@ I used to have docker containers on my home server for these use cases. However,
 ## creative space
 
 This is a random list of creative stuff related to these themes:
-- [blogpost for my uni](https://www.studienprogrammqplus.uni-mainz.de/?jgu_contentblock=openscience)
-- [videos on biomedical sciences](https://www.youtube.com/@biology2go)
+- blogpost for my uni: https://www.studienprogrammqplus.uni-mainz.de/?jgu_contentblock=openscience
+- videos on biomedical sciences: https://www.youtube.com/@biology2go
